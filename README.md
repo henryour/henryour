@@ -1,4 +1,4 @@
-Sou Desenvolvedor Full-Stack autodidata por hobby há 6 anos do Brasil 🇧🇷
+Sou desenvolvedor full-stack autodidata por hobby há 6 anos do Brasil 🇧🇷
 
 **Sobre mim**
 - 👋 Olá, sou Gabriel Henry ([@henryour](https://github.com/henryour))
