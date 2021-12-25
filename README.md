@@ -16,5 +16,3 @@ Sou Desenvolvedor Full-Stack autodidata por hobby há 6 anos do Brasil 🇧🇷
 <a href="https://github.com/henryour/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryour&show_icons=true&title_color=fff&icon_color=10de69&text_color=9f9f9f&bg_color=151515" />
 </a>
-
-![Snake animation](https://github.com/henryour/henryour/blob/output/github-contribution-grid-snake.svg)
