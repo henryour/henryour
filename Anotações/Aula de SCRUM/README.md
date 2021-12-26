@@ -1,6 +1,5 @@
 # Resumo da Aula de **SCRUM**
-
-## Desafios do Desenvolvimento de Software
+> Desafios do Desenvolvimento de Software
 
 ### Método tradicional de gerenciamento de projetos (Waterfall)
 
