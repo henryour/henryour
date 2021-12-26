@@ -14,7 +14,7 @@ Toda empresa tem objetivo(s) de negócio. Para que seja desenvolvido, terá as f
 | Implantação/Liberação | Correção de erros, otimizações compatíveis e instalação no sistema |
 
 Após o processo, o Software é concluido e entregue ao cliente.
-Segundo um estudo, na realidade, o produto final (Software) é usado 100% apenas em 20% dos casos (7% sempre e 13% frequentemente), 80% é às vezes utilizado, raramente utilizado ou nunca é utilizado como todo, resultando em desperdício de tempo, custo e colaboração com o projeto.
+Segundo um estudo, na realidade, 100% do produto final (Software) é usado em 20% dos casos (7% sempre e 13% frequentemente), 80% é às vezes utilizado, raramente utilizado ou nunca é utilizado como todo, resultando em desperdício de tempo, custo e colaboração com o projeto.
 > (...) o Princípio de Pareto também se aplica ao desenvolvimento de software, onde 20% das funcionalidades costumam gerar 80% ou mais do benefício esperado.
 
 #### Anotações do método tradicional (Waterfall)
