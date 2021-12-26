@@ -7,8 +7,8 @@
 
 Toda empresa tem objetivo(s) de negócio. Para que seja desenvolvido, terá as fases a ser seguidas:
 
-| Processo de Desenvolvimento | Descrição  da fase |
-| --------------------------- | ------------------ |
+| Fase | Descrição |
+| ---- | --------- |
 | Requisitos/Concepção | Idealização, requerimento de documentação e preparação do projeto |
 | Análise/Design | Planejamento, design, mapeamento |
 | Construção/Desenvolvimento | O software é construído |
@@ -28,7 +28,7 @@ Segundo um estudo, na realidade, o produto final (Software) é usado 100% apenas
 
 Neste método o projeto é dividido em partes (incremental) e cada parte executa-se em um ciclo (iterativo).
 
-| Processo de Desenvolvimento | Descrição  da fase |
+| Fase | Descrição |
 | --------------------------- | ------------------ |
 | Requisitos/Concepção | Idealização, requerimento de documentação e preparação do projeto |
 | Análise/Design | Planejamento, design, mapeamento |
