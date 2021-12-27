@@ -26,6 +26,8 @@ Segundo um estudo, na realidade, 100% do produto final (Software) é usado em 20
 
 Neste método o projeto é dividido em partes (incremental) e cada parte executa-se em um ciclo (iterativo).
 
+Fases de uma parte:
+
 | Fase | Descrição |
 | --------------------------- | ------------------ |
 | Requisitos/Concepção | Idealização, requerimento de documentação e preparação do projeto |
@@ -33,3 +35,7 @@ Neste método o projeto é dividido em partes (incremental) e cada parte executa
 | Construção/Desenvolvimento | O software é construído |
 | Testes | É instalado para testes e checagem |
 | Implantação/Liberação | Correção de erros, otimizações compatíveis e instalação no sistema |
+
+**Observação:** Pode-se observar que as fases de cada parte são as mesmas do método tradicional (Waterfall), adicionando apenas a metodologia de ciclos de partes.
+
+
