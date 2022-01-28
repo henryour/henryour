@@ -1,7 +1,7 @@
 Sou desenvolvedor full-stack autodidata por hobby há 6 anos do Brasil 🇧🇷
 
 **Sobre mim**
-- 👋 Olá, sou Gabriel Henry ([@henryour](https://github.com/henryour))
+- 👋 Olá, sou Gabriel Henrique ([@henryour](https://github.com/henryour))
 - 📌 Moro atualmente em João Pessoa, Paraíba, Brasil
 - 🌱 Re-aprendendo e aprendendo intessamente pra se tornar um profissional na área
 - 💘 Entre o amor e o ódio com o PHP e Typescript
